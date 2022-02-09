@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/goit-react-homework-01-components/static/css/main.20395e76.chunk.css",
-    "main.js": "/goit-react-homework-01-components/static/js/main.2e8a4d30.chunk.js",
-    "main.js.map": "/goit-react-homework-01-components/static/js/main.2e8a4d30.chunk.js.map",
-    "runtime-main.js": "/goit-react-homework-01-components/static/js/runtime-main.00c2243c.js",
-    "runtime-main.js.map": "/goit-react-homework-01-components/static/js/runtime-main.00c2243c.js.map",
-    "static/js/2.8f027ee2.chunk.js": "/goit-react-homework-01-components/static/js/2.8f027ee2.chunk.js",
-    "static/js/2.8f027ee2.chunk.js.map": "/goit-react-homework-01-components/static/js/2.8f027ee2.chunk.js.map",
+    "main.js": "/goit-react-homework-01-components/static/js/main.7effd487.chunk.js",
+    "main.js.map": "/goit-react-homework-01-components/static/js/main.7effd487.chunk.js.map",
+    "runtime-main.js": "/goit-react-homework-01-components/static/js/runtime-main.41738b21.js",
+    "runtime-main.js.map": "/goit-react-homework-01-components/static/js/runtime-main.41738b21.js.map",
+    "static/js/2.3b68d421.chunk.js": "/goit-react-homework-01-components/static/js/2.3b68d421.chunk.js",
+    "static/js/2.3b68d421.chunk.js.map": "/goit-react-homework-01-components/static/js/2.3b68d421.chunk.js.map",
     "index.html": "/goit-react-homework-01-components/index.html",
-    "precache-manifest.820fe3353e462739cb151001b2e14538.js": "/goit-react-homework-01-components/precache-manifest.820fe3353e462739cb151001b2e14538.js",
+    "precache-manifest.2ee1a3b169a89ad5b2aa8a3bc23fcafc.js": "/goit-react-homework-01-components/precache-manifest.2ee1a3b169a89ad5b2aa8a3bc23fcafc.js",
     "service-worker.js": "/goit-react-homework-01-components/service-worker.js",
     "static/css/main.20395e76.chunk.css.map": "/goit-react-homework-01-components/static/css/main.20395e76.chunk.css.map",
-    "static/js/2.8f027ee2.chunk.js.LICENSE.txt": "/goit-react-homework-01-components/static/js/2.8f027ee2.chunk.js.LICENSE.txt"
+    "static/js/2.3b68d421.chunk.js.LICENSE.txt": "/goit-react-homework-01-components/static/js/2.3b68d421.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.00c2243c.js",
-    "static/js/2.8f027ee2.chunk.js",
+    "static/js/runtime-main.41738b21.js",
+    "static/js/2.3b68d421.chunk.js",
     "static/css/main.20395e76.chunk.css",
-    "static/js/main.2e8a4d30.chunk.js"
+    "static/js/main.7effd487.chunk.js"
   ]
 }
